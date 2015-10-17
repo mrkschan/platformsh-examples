@@ -23,7 +23,6 @@ You can find a quick-start guide on using Symfony with Platform.sh here: https:/
 
 * [symfony/standard-full](https://github.com/platformsh/platformsh-examples/tree/symfony/standard-full)
 * [symfony/standard-dev-full](https://github.com/platformsh/platformsh-examples/tree/symfony/standard-dev-full)
-* [symfony/sandbox-full](https://github.com/platformsh/platformsh-examples/tree/symfony/cmf-sandbox-full)
 * [symfony/todo-mvc-full](https://github.com/platformsh/platformsh-examples/tree/symfony/todo-mvc-full)
 
 ### Misc
