@@ -9,21 +9,12 @@ Each example is a specific branch that you can use as a starting point for your
 [Platform.sh](https://platform.sh) project.
 
 ### Drupal
-You can find _a lot_ of documentation on using Platform.sh with Drupal on http://docs.platform.sh/ a getting started guide can be found here: https://docs.platform.sh/drupal/ and a guide about how to migrate an existing Drupal site here: https://docs.platform.sh/drupal_migrate/
 
-* [drupal/7.x](https://github.com/platformsh/platformsh-examples/tree/drupal/7.x)
-* [drupal/8.x](https://github.com/platformsh/platformsh-examples/tree/drupal/8.x)
-* [drupal/kickstart-2.x](https://github.com/platformsh/platformsh-examples/tree/drupal/kickstart-2.x)
-* [drupal/7.x-grunt](https://github.com/platformsh/platformsh-examples/tree/drupal/7.x-grunt)
-* [drupal/8.x-commerce](https://github.com/platformsh/platformsh-examples/tree/drupal/8.x-commerce)
+[DEPRECATED] Drupal examples can be found on the [platformsh-example-drupal](https://github.com/platformsh/platformsh-example-drupal) GitHub repository.
 
 ### Symfony
 
-You can find a quick-start guide on using Symfony with Platform.sh here: https://docs.platform.sh/symfony/
-
-* [symfony/standard-full](https://github.com/platformsh/platformsh-examples/tree/symfony/standard-full)
-* [symfony/standard-dev-full](https://github.com/platformsh/platformsh-examples/tree/symfony/standard-dev-full)
-* [symfony/todo-mvc-full](https://github.com/platformsh/platformsh-examples/tree/symfony/todo-mvc-full)
+[DEPRECATED] Symfony examples can be found on the [platformsh-example-symfony](https://github.com/platformsh/platformsh-example-symfont) GitHub repository.
 
 ### Misc
 
