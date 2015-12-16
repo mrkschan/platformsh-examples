@@ -10,11 +10,11 @@ Each example is a specific branch that you can use as a starting point for your
 
 ### Drupal
 
-[DEPRECATED] Drupal examples can be found on the [platformsh-example-drupal](https://github.com/platformsh/platformsh-example-drupal) GitHub repository.
+[DEPRECATED] The Drupal examples have moved to the [platformsh-example-drupal](https://github.com/platformsh/platformsh-example-drupal) GitHub repository.
 
 ### Symfony
 
-[DEPRECATED] Symfony examples can be found on the [platformsh-example-symfony](https://github.com/platformsh/platformsh-example-symfony) GitHub repository.
+[DEPRECATED] The Symfony examples have moved to the [platformsh-example-symfony](https://github.com/platformsh/platformsh-example-symfony) GitHub repository.
 
 ### Misc
 
