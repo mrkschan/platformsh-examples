@@ -14,7 +14,7 @@ Each example is a specific branch that you can use as a starting point for your
 
 ### Symfony
 
-[DEPRECATED] Symfony examples can be found on the [platformsh-example-symfony](https://github.com/platformsh/platformsh-example-symfont) GitHub repository.
+[DEPRECATED] Symfony examples can be found on the [platformsh-example-symfony](https://github.com/platformsh/platformsh-example-symfony) GitHub repository.
 
 ### Misc
 
