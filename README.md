@@ -16,13 +16,17 @@ Each example is a specific branch that you can use as a starting point for your
 
 [DEPRECATED] The Symfony examples have moved to the [platformsh-example-symfony](https://github.com/platformsh/platformsh-example-symfony) GitHub repository.
 
+
+### WordPress
+
+[DEPRECATED] The WordPress examples have moved to the [platformsh-example-wordpress](https://github.com/platformsh/platformsh-example-wordpress) GitHub repository.
+
 ### Misc
 
 * [custom-php/minimal](https://github.com/platformsh/platformsh-examples/tree/custom-php/minimal)
 * [custom-php/hhvm](https://github.com/platformsh/platformsh-examples/tree/custom-php/hhvm)
 * [double-mysql](https://github.com/platformsh/platformsh-examples/tree/double-mysql)
 * [multiapp/drupal-symfony](https://github.com/platformsh/platformsh-examples/tree/multiapp/drupal-symfony)
-* [wordpress/4.x](https://github.com/platformsh/platformsh-examples/tree/wordpress/4.x)
 * [sonata/2.4](https://github.com/platformsh/platformsh-examples/tree/sonata/2.4)
 
 ## How to use
