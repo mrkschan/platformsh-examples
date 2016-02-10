@@ -8,18 +8,27 @@ the flexibility of `Platform.sh`.
 Each example is a specific branch that you can use as a starting point for your 
 [Platform.sh](https://platform.sh) project.
 
-### Drupal
+### PHP
+
+#### Drupal
 
 [DEPRECATED] The Drupal examples have moved to the [platformsh-example-drupal](https://github.com/platformsh/platformsh-example-drupal) GitHub repository.
 
-### Symfony
+#### Magento
+
+[DEPRECATED] The Magento examples have moved to the [platformsh-example-magento](https://github.com/platformsh/platformsh-example-magento) GitHub repository.
+
+#### Symfony
 
 [DEPRECATED] The Symfony examples have moved to the [platformsh-example-symfony](https://github.com/platformsh/platformsh-example-symfony) GitHub repository.
 
-
-### WordPress
+#### WordPress
 
 [DEPRECATED] The WordPress examples have moved to the [platformsh-example-wordpress](https://github.com/platformsh/platformsh-example-wordpress) GitHub repository.
+
+## NodeJS
+
+Some NodeJS examples can be found in the [platformsh-example-nodejs](https://github.com/platformsh/platformsh-example-nodejs) GitHub repository.
 
 ### Misc
 
