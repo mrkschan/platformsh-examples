@@ -13,7 +13,9 @@ relationships:
     first_database: "database1:mysql"
     second_database: "database2:mysql"
 web:
-    document_root: "/"
-    passthru: "/index.php"
+    locations:
+        "/":
+            root: ""
+            passthru: "/index.php"
 disk: 2048
 
