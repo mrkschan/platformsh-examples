@@ -16,10 +16,12 @@ relationships:
 
 # The configuration of app when it is exposed to the web.
 web:
-    # The public directory of the app, relative to its root.
-    document_root: "/drupal"
-    # The front-controller script to send non-static requests to.
-    passthru: "/index.php"
+    locations:
+        "/":
+            # The public directory of the app, relative to its root.
+            root: "drupal"
+            # The front-controller script to send non-static requests to.
+            passthru: "/index.php"
 
 # The size of the persistent disk of the application (in MB).
 disk: 1024
